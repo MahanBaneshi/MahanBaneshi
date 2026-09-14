@@ -16,7 +16,7 @@
 
 ## About Me
 
-- 🎓 Third-year Computer Engineering student
+- 🎓 Fourth-year Computer Engineering student
 - 📍 Based in Shiraz, Iran
 - 🐍 Interested in Python, Machine Learning, Data Mining, and NLP
 - 🔬 Passionate about building practical AI systems and predictive models
